@@ -2,7 +2,7 @@
 <h3 align="center">Current first year student at the University Of Guelph</h3>
 <h6 align="center">Major In Computer Science, Minor In Applied Geomatics</h6>
 
-I’m currently working on developing a front end website with NextJs and React for my various projects
+I’m currently working on developing various projects using ML
 
 Some of my past projects include:
 - AI-powered Image Upscaler Using Python For Any Hardware leveraging Direct-Ml for TensorFlow

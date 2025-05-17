@@ -5,6 +5,7 @@
 I’m currently working on developing various projects using ML
 
 Some of my past projects include:
+- Undergrad Research Assistant: Developing Benchmarks for Novel Image Visualization Techniques For Capsule Networks, leading to paper publication.
 - AI-powered Image Upscaler Using Python For Any Hardware leveraging Direct-Ml for TensorFlow
 - Training an AI Using Python to beat the first level in Cuphead Run N Gun by cloning a user's behaviour and predicting the best action
 - Auto Grader Evaluation Tool Using C, Python and Bash For Computer Assignments Given In Class, Complete Coverage Of All Tests Conducted By TA's

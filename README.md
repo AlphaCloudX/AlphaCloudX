@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Current second year University Student</h3>
+<h3 align="center">Current third year University Student</h3>
 <h6 align="center">Major In Computer Science, Minor In Applied Geomatics</h6>
 
 I’m currently working on developing various projects using ML

@@ -18,11 +18,10 @@ I’m currently working on developing projects in **Machine Learning, Full Stack
 ---
 
 ## 📺 YouTube & Media
-Check out more of my projects and demos on my YouTube channel:  
-[![AlphaCloud](https://img.youtube.com/vi/seb8aCPnXJ4/0.jpg)](https://www.youtube.com/@AlphaCloud)  
+Check out more of my projects and demos on my YouTube channel: [AlphaCloud](https://www.youtube.com/@AlphaCloud)  
 - Over **16,000 total views**  
 - Top video teaching development setup: ~14,000 views  
-- Minecraft client demos, AI object detection, and ML projects
+- Minecraft client demos, AI object detection, and Python projects
 
 ---
 

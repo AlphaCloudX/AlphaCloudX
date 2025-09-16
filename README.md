@@ -50,5 +50,4 @@ Check out more of my projects and demos on my YouTube channel: [AlphaCloud](http
 <p align="left">
 <a href="https://alphacloudx.github.io/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="30"/></a>
 <a href="https://github.com/AlphaCloudX"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/></a>
-<a href="mailto:michaelczomko@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="30"/></a>
 </p>
